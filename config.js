@@ -1,4 +1,4 @@
 window.A4P_CONFIG = {
-  SUPABASE_URL: "https://VOTRE-PROJET.supabase.co",
-  SUPABASE_ANON_KEY: "VOTRE-CLE-PUBLIQUE"
+  SUPABASE_URL: "https://quxyscbrcusnkhzytxrz.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_UYaUDHpQwbTsnlQOxJw8Pg_Xj_sxeh0"
 };
